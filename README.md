@@ -48,23 +48,6 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades no mundo d
 
 <br/>
 
-<details open>
-<summary><h3>🗂️ Meus Melhores Projetos</h3></summary>
-
-<div align="center">
-<br/>
-<a href="https://github.com/rickk1stdev/springboot-musicas">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rickk1stdev&repo=springboot-musicas&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Springboot Músicas" />
-</a>
-<a href="https://github.com/rickk1stdev/WorkTech-APIRestful">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rickk1stdev&repo=WorkTech-APIRestful&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WorkTech API" />
-</a>
-<br/>
-</div>
-</details>
-
-<br/>
-
 <details>
 <summary><h3>📊 Estatísticas do GitHub</h3></summary>
 
@@ -80,14 +63,13 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades no mundo d
 <a href="https://github.com/rickk1stdev">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickk1stdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </a>
-<br/><br/>
 <br/>
 </div>
 </details>
 
 <br/>
 
-<details>
+<details open>
 <summary><h3>🐍 Contribuições & WakaTime</h3></summary>
 
 <div align="center">
