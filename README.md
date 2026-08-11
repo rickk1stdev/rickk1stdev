@@ -85,7 +85,15 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades no mundo d
 <h4>⏱️ Horas de Código (Últimos 7 dias)</h4>
 
 <!--START_SECTION:waka-->
-<!-- O GitHub Action vai inserir as estatísticas do WakaTime aqui -->
+
+```txt
+From: 04 August 2026 - To: 11 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br/>
 </div>
