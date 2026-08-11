@@ -68,8 +68,16 @@
 <div align="center">
   <h3>⏱️ Horas de Código (Últimos 7 dias)</h3>
   <!--START_SECTION:waka-->
-  <!-- O GitHub Action vai inserir as estatísticas do WakaTime aqui -->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 04 August 2026 - To: 11 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </div>
 
 <br/>
