@@ -12,86 +12,105 @@
 
 <br/>
 
-<div align="center">
-  <h3>👨‍💻 Sobre Mim</h3>
-  <p>
-    Sou um desenvolvedor com experiência prática, focado na construção de aplicações modernas e eficientes.<br/>
-    Estou sempre buscando novos desafios e aprimorando minhas habilidades no mundo do desenvolvimento para construir softwares escaláveis e de alta qualidade.
-  </p>
-</div>
+<details>
+  <summary><h3>👨‍💻 Sobre Mim & Contato</h3></summary>
+  
+  <div align="center">
+    <br/>
+    <p>
+      Sou um desenvolvedor com experiência prática, focado na construção de aplicações modernas e eficientes.<br/>
+      Estou sempre buscando novos desafios e aprimorando minhas habilidades no mundo do desenvolvimento para construir softwares escaláveis e de alta qualidade.
+    </p>
+    <br/>
+    <a href="mailto:richard.rcket@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/richard-freitas/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <br/>
+  </div>
+</details>
 
 <br/>
 
-<div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
-  <br/>
-  <a href="https://skillicons.dev">
-    <!-- Ícones gerados via skillicons.dev - React, Vite, MySQL (SQL), Java, JS, HTML, CSS, Python, Lua (Luau) -->
-    <img src="https://skillicons.dev/icons?i=react,vite,mysql,java,js,html,css,python,lua&theme=dark&perline=9" />
-  </a>
-</div>
+<details open>
+  <summary open><h3>🛠️ Tecnologias e Ferramentas</h3></summary>
+  
+  <div align="center">
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,vite,mysql,java,js,html,css,python,lua&theme=dark&perline=9" />
+    </a>
+    <br/>
+  </div>
+</details>
 
 <br/>
 
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <br/>
-  <a href="https://github.com/rickk1stdev">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickk1stdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rickk1stdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickk1stdev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rickk1stdev">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickk1stdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rickk1stdev">
-    <img src="https://github-profile-trophy.vercel.app/?username=rickk1stdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
+<details open>
+  <summary><h3>🗂️ Meus Melhores Projetos</h3></summary>
+  
+  <div align="center">
+    <br/>
+    <a href="https://github.com/rickk1stdev/springboot-musicas">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rickk1stdev&repo=springboot-musicas&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Springboot Músicas" />
+    </a>
+    <a href="https://github.com/rickk1stdev/WorkTech-APIRestful">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rickk1stdev&repo=WorkTech-APIRestful&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WorkTech API" />
+    </a>
+    <br/>
+  </div>
+</details>
 
 <br/>
 
-<div align="center">
-  <h3>🐍 Minhas Contribuições</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<details>
+  <summary><h3>📊 Estatísticas do GitHub</h3></summary>
+  
+  <div align="center">
+    <br/>
+    <a href="https://github.com/rickk1stdev">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickk1stdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/rickk1stdev">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickk1stdev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/rickk1stdev">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickk1stdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/rickk1stdev">
+      <img src="https://github-profile-trophy.vercel.app/?username=rickk1stdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    </a>
+    <br/>
+  </div>
+</details>
 
 <br/>
 
-<div align="center">
-  <h3>⏱️ Horas de Código (Últimos 7 dias)</h3>
-  <!--START_SECTION:waka-->
-
-```txt
-From: 04 August 2026 - To: 11 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📫 Contato</h3>
-  <br/>
-  <a href="mailto:richard.rcket@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/richard-freitas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<details>
+  <summary open><h3>🐍 Contribuições & WakaTime</h3></summary>
+  
+  <div align="center">
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickk1stdev/rickk1stdev/output/github-contribution-grid-snake.svg">
+    </picture>
+    
+    <br/><br/>
+    
+    <h4>⏱️ Horas de Código (Últimos 7 dias)</h4>
+    
+    <!--START_SECTION:waka-->
+    <!-- O GitHub Action vai inserir as estatísticas do WakaTime aqui -->
+    <!--END_SECTION:waka-->
+    <br/>
+  </div>
+</details>
 
 <br/>
 
